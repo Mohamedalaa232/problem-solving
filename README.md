@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Mohamedalaa232/problem-solving/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Mohamedalaa232/problem-solving/tree/master/0013-roman-to-integer) |
 ## Linked List
 |  |
@@ -39,4 +40,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Mohamedalaa232/problem-solving/tree/master/0070-climbing-stairs) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Mohamedalaa232/problem-solving/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
